@@ -1,0 +1,603 @@
+[
+  {
+    "seed": 731,
+    "style": "walk",
+    "score": 125,
+    "rank": 3,
+    "species": 10,
+    "personal": true,
+    "path": [
+      {
+        "type": "observe",
+        "id": 5
+      },
+      {
+        "type": "wait"
+      },
+      {
+        "type": "move",
+        "to": 1
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "observe",
+        "id": 2
+      },
+      {
+        "type": "move",
+        "to": 0
+      },
+      {
+        "type": "observe",
+        "id": 9
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "observe",
+        "id": 10
+      },
+      {
+        "type": "observe",
+        "id": 8
+      },
+      {
+        "type": "move",
+        "to": 3
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "observe",
+        "id": 0
+      },
+      {
+        "type": "wait"
+      },
+      {
+        "type": "move",
+        "to": 0
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "observe",
+        "id": 11
+      },
+      {
+        "type": "move",
+        "to": 1
+      },
+      {
+        "type": "observe",
+        "id": 1
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "move",
+        "to": 2
+      },
+      {
+        "type": "observe",
+        "id": 6
+      },
+      {
+        "type": "focus"
+      },
+      {
+        "type": "observe",
+        "id": 7
+      },
+      {
+        "type": "next"
+      }
+    ]
+  },
+  {
+    "seed": 731,
+    "style": "lens",
+    "score": 120,
+    "rank": 3,
+    "species": 9,
+    "personal": true,
+    "path": [
+      {
+        "type": "observe",
+        "id": 5
+      },
+      {
+        "type": "wait"
+      },
+      {
+        "type": "observe",
+        "id": 4
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "move",
+        "to": 1
+      },
+      {
+        "type": "observe",
+        "id": 2
+      },
+      {
+        "type": "wait"
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "observe",
+        "id": 3
+      },
+      {
+        "type": "move",
+        "to": 0
+      },
+      {
+        "type": "observe",
+        "id": 10
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "move",
+        "to": 1
+      },
+      {
+        "type": "observe",
+        "id": 0
+      },
+      {
+        "type": "move",
+        "to": 2
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "observe",
+        "id": 6
+      },
+      {
+        "type": "move",
+        "to": 5
+      },
+      {
+        "type": "wait"
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "observe",
+        "id": 9
+      },
+      {
+        "type": "move",
+        "to": 2
+      },
+      {
+        "type": "focus"
+      },
+      {
+        "type": "observe",
+        "id": 7
+      },
+      {
+        "type": "next"
+      }
+    ]
+  },
+  {
+    "seed": 731,
+    "style": "sketch",
+    "score": 126,
+    "rank": 3,
+    "species": 10,
+    "personal": true,
+    "path": [
+      {
+        "type": "observe",
+        "id": 5
+      },
+      {
+        "type": "wait"
+      },
+      {
+        "type": "move",
+        "to": 1
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "observe",
+        "id": 2
+      },
+      {
+        "type": "move",
+        "to": 0
+      },
+      {
+        "type": "observe",
+        "id": 8
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "wait"
+      },
+      {
+        "type": "observe",
+        "id": 10
+      },
+      {
+        "type": "wait"
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "observe",
+        "id": 9
+      },
+      {
+        "type": "move",
+        "to": 1
+      },
+      {
+        "type": "observe",
+        "id": 1
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "move",
+        "to": 2
+      },
+      {
+        "type": "observe",
+        "id": 4
+      },
+      {
+        "type": "focus"
+      },
+      {
+        "type": "observe",
+        "id": 6
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "focus"
+      },
+      {
+        "type": "observe",
+        "id": 7
+      },
+      {
+        "type": "move",
+        "to": 1
+      },
+      {
+        "type": "observe",
+        "id": 0
+      },
+      {
+        "type": "next"
+      }
+    ]
+  },
+  {
+    "seed": 137,
+    "style": "walk",
+    "score": 123,
+    "rank": 3,
+    "species": 9,
+    "personal": true,
+    "path": [
+      {
+        "type": "wait"
+      },
+      {
+        "type": "observe",
+        "id": 6
+      },
+      {
+        "type": "move",
+        "to": 7
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "observe",
+        "id": 10
+      },
+      {
+        "type": "move",
+        "to": 8
+      },
+      {
+        "type": "observe",
+        "id": 2
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "move",
+        "to": 5
+      },
+      {
+        "type": "observe",
+        "id": 9
+      },
+      {
+        "type": "wait"
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "observe",
+        "id": 11
+      },
+      {
+        "type": "move",
+        "to": 2
+      },
+      {
+        "type": "observe",
+        "id": 5
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "move",
+        "to": 1
+      },
+      {
+        "type": "observe",
+        "id": 1
+      },
+      {
+        "type": "focus"
+      },
+      {
+        "type": "observe",
+        "id": 3
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "move",
+        "to": 4
+      },
+      {
+        "type": "observe",
+        "id": 7
+      },
+      {
+        "type": "observe",
+        "id": 5
+      },
+      {
+        "type": "next"
+      }
+    ]
+  },
+  {
+    "seed": 137,
+    "style": "lens",
+    "score": 121,
+    "rank": 3,
+    "species": 9,
+    "personal": true,
+    "path": [
+      {
+        "type": "observe",
+        "id": 6
+      },
+      {
+        "type": "wait"
+      },
+      {
+        "type": "observe",
+        "id": 5
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "move",
+        "to": 1
+      },
+      {
+        "type": "observe",
+        "id": 2
+      },
+      {
+        "type": "wait"
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "move",
+        "to": 2
+      },
+      {
+        "type": "observe",
+        "id": 7
+      },
+      {
+        "type": "move",
+        "to": 5
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "observe",
+        "id": 9
+      },
+      {
+        "type": "wait"
+      },
+      {
+        "type": "move",
+        "to": 8
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "observe",
+        "id": 1
+      },
+      {
+        "type": "move",
+        "to": 7
+      },
+      {
+        "type": "observe",
+        "id": 8
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "focus"
+      },
+      {
+        "type": "observe",
+        "id": 11
+      },
+      {
+        "type": "move",
+        "to": 6
+      },
+      {
+        "type": "observe",
+        "id": 4
+      },
+      {
+        "type": "next"
+      }
+    ]
+  },
+  {
+    "seed": 137,
+    "style": "sketch",
+    "score": 122,
+    "rank": 3,
+    "species": 9,
+    "personal": true,
+    "path": [
+      {
+        "type": "wait"
+      },
+      {
+        "type": "observe",
+        "id": 6
+      },
+      {
+        "type": "move",
+        "to": 5
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "observe",
+        "id": 10
+      },
+      {
+        "type": "move",
+        "to": 8
+      },
+      {
+        "type": "observe",
+        "id": 0
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "wait"
+      },
+      {
+        "type": "move",
+        "to": 5
+      },
+      {
+        "type": "observe",
+        "id": 9
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "wait"
+      },
+      {
+        "type": "observe",
+        "id": 11
+      },
+      {
+        "type": "move",
+        "to": 4
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "observe",
+        "id": 5
+      },
+      {
+        "type": "observe",
+        "id": 4
+      },
+      {
+        "type": "wait"
+      },
+      {
+        "type": "next"
+      },
+      {
+        "type": "observe",
+        "id": 7
+      },
+      {
+        "type": "move",
+        "to": 3
+      },
+      {
+        "type": "observe",
+        "id": 1
+      },
+      {
+        "type": "next"
+      }
+    ]
+  }
+]

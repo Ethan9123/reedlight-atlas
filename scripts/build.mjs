@@ -1,0 +1,13 @@
+import {readFileSync,writeFileSync,cpSync,mkdirSync,existsSync} from 'node:fs';
+import {fileURLToPath} from 'node:url';
+import {join} from 'node:path';
+const root=fileURLToPath(new URL('..',import.meta.url)),game=join(root,'game'),dist=join(root,'dist');
+mkdirSync(dist,{recursive:true});cpSync(game,dist,{recursive:true});mkdirSync(join(dist,'downloads'),{recursive:true});
+let html=readFileSync(join(game,'index.html'),'utf8');
+html=html.replace('<link rel="stylesheet" href="style.css">','<style>'+readFileSync(join(game,'style.css'),'utf8')+'</style>');
+for(const name of ['engine','art','sound','app'])html=html.replace(`<script src="${name}.js"></script>`,'<script>\n'+readFileSync(join(game,name+'.js'),'utf8')+'\n</script>');
+writeFileSync(join(dist,'downloads','reedlight-offline.html'),html);
+const delivery=`<script>window.reedDelivery=function(){const d=document.getElementById('delivery');if(d)d.innerHTML='<a href="downloads/reedlight-offline.html" download>离线单文件 / Offline</a> · <a href="downloads/reedlight-source.zip" download>源码 / Source</a>';};window.reedDelivery();</script>`;
+writeFileSync(join(dist,'index.html'),readFileSync(join(game,'index.html'),'utf8').replace('</body>',delivery+'\n</body>'));
+if(existsSync(join(root,'release','reedlight-source.zip')))cpSync(join(root,'release','reedlight-source.zip'),join(dist,'downloads','reedlight-source.zip'));
+console.log('Built private Site and self-contained offline HTML; no external dependencies.');

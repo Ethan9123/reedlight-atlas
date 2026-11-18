@@ -1,0 +1,8 @@
+node_modules/
+out/
+.verify-output/
+*.tar.gz
+*.zip
+.sites-runtime/
+__pycache__/
+!dist/downloads/reedlight-source.zip

@@ -1,0 +1,46 @@
+{
+  "status": "passed",
+  "node": "v24.22.1",
+  "scope": "Local output-format and determinism checks, not official competition acceptance",
+  "deterministic_all_output_files": true,
+  "identical_stdout": true,
+  "output_file_count": 11,
+  "game_files": 6,
+  "game_bytes": 101315,
+  "index_bytes": 1282,
+  "offline_html_bytes": 101241,
+  "external_runtime_references": 0,
+  "dossier_bytes": 474768,
+  "dossier_sha256": "2b5cc1423ef310eb6c37ae3af0bfac5d1e889579e4fcdebc1708042e641e0fb8",
+  "official_adapter_sha256": "dc67187521b24025ff952f8c231485a6eb92d6d71d29edd2a08154ffb4376129",
+  "screenshots": [
+    {
+      "file": "screenshots/01-field.jpg",
+      "width": 1180,
+      "height": 1232,
+      "bytes": 113811,
+      "sha256": "0d369fff577616b915b25d77c32e268df29885d19ab7510027bbfe7140653317"
+    },
+    {
+      "file": "screenshots/02-start.jpg",
+      "width": 1165,
+      "height": 747,
+      "bytes": 53046,
+      "sha256": "32e074a13ea7929962e7e11b9888623bbcc020168efab9f9148806f05e214f1a"
+    },
+    {
+      "file": "screenshots/03-results.jpg",
+      "width": 1165,
+      "height": 842,
+      "bytes": 63843,
+      "sha256": "14902990344da52eda297096571ee53cadc0b02d3e3807abf02e55475e119c4a"
+    },
+    {
+      "file": "screenshots/04-notebook.jpg",
+      "width": 1165,
+      "height": 747,
+      "bytes": 47519,
+      "sha256": "ba26be81850312c68389f1b714509f2d3794c57b00272a216435afd7ac79227f"
+    }
+  ]
+}

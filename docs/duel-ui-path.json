@@ -1,0 +1,812 @@
+{
+  "seed": 731,
+  "kits": [
+    "walk",
+    "lens"
+  ],
+  "scores": [
+    113,
+    108
+  ],
+  "species": [
+    10,
+    9
+  ],
+  "path": [
+    {
+      "action": {
+        "type": "observe",
+        "id": 5
+      },
+      "actor": 0,
+      "round": 1,
+      "active": 1,
+      "ap": 3,
+      "quiet": 2,
+      "pos": 4,
+      "focus": 2,
+      "scores": [
+        7,
+        0
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "scout"
+      },
+      "actor": 1,
+      "round": 1,
+      "active": 0,
+      "ap": 2,
+      "quiet": 1,
+      "pos": 4,
+      "focus": 2,
+      "scores": [
+        7,
+        0
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "wait"
+      },
+      "actor": 0,
+      "round": 1,
+      "active": 1,
+      "ap": 2,
+      "quiet": 2,
+      "pos": 4,
+      "focus": 2,
+      "scores": [
+        7,
+        0
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "focus"
+      },
+      "actor": 1,
+      "round": 1,
+      "active": 1,
+      "ap": 2,
+      "quiet": 4,
+      "pos": 4,
+      "focus": 1,
+      "scores": [
+        7,
+        0
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 7
+      },
+      "actor": 1,
+      "round": 1,
+      "active": 0,
+      "ap": 1,
+      "quiet": 3,
+      "pos": 4,
+      "focus": 2,
+      "scores": [
+        7,
+        10
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "move",
+        "to": 1
+      },
+      "actor": 0,
+      "round": 1,
+      "active": 1,
+      "ap": 1,
+      "quiet": 3,
+      "pos": 4,
+      "focus": 1,
+      "scores": [
+        7,
+        10
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "move",
+        "to": 5
+      },
+      "actor": 1,
+      "round": 1,
+      "active": 1,
+      "ap": 0,
+      "quiet": 2,
+      "pos": 5,
+      "focus": 1,
+      "scores": [
+        7,
+        10
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "next"
+      },
+      "actor": 1,
+      "round": 2,
+      "active": 1,
+      "ap": 3,
+      "quiet": 3,
+      "pos": 5,
+      "focus": 1,
+      "scores": [
+        7,
+        10
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 9
+      },
+      "actor": 1,
+      "round": 2,
+      "active": 0,
+      "ap": 3,
+      "quiet": 4,
+      "pos": 1,
+      "focus": 2,
+      "scores": [
+        7,
+        20
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 2
+      },
+      "actor": 0,
+      "round": 2,
+      "active": 1,
+      "ap": 2,
+      "quiet": 2,
+      "pos": 5,
+      "focus": 1,
+      "scores": [
+        16,
+        20
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 8
+      },
+      "actor": 1,
+      "round": 2,
+      "active": 0,
+      "ap": 2,
+      "quiet": 3,
+      "pos": 1,
+      "focus": 2,
+      "scores": [
+        16,
+        26
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "move",
+        "to": 0
+      },
+      "actor": 0,
+      "round": 2,
+      "active": 1,
+      "ap": 1,
+      "quiet": 1,
+      "pos": 5,
+      "focus": 1,
+      "scores": [
+        16,
+        26
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "move",
+        "to": 2
+      },
+      "actor": 1,
+      "round": 2,
+      "active": 0,
+      "ap": 1,
+      "quiet": 3,
+      "pos": 0,
+      "focus": 2,
+      "scores": [
+        16,
+        26
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 9
+      },
+      "actor": 0,
+      "round": 2,
+      "active": 0,
+      "ap": 0,
+      "quiet": 2,
+      "pos": 0,
+      "focus": 2,
+      "scores": [
+        42,
+        26
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "next"
+      },
+      "actor": 0,
+      "round": 3,
+      "active": 0,
+      "ap": 3,
+      "quiet": 3,
+      "pos": 0,
+      "focus": 2,
+      "scores": [
+        42,
+        26
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 10
+      },
+      "actor": 0,
+      "round": 3,
+      "active": 1,
+      "ap": 3,
+      "quiet": 1,
+      "pos": 2,
+      "focus": 1,
+      "scores": [
+        57,
+        26
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "focus"
+      },
+      "actor": 1,
+      "round": 3,
+      "active": 1,
+      "ap": 3,
+      "quiet": 3,
+      "pos": 2,
+      "focus": 0,
+      "scores": [
+        57,
+        26
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 5
+      },
+      "actor": 1,
+      "round": 3,
+      "active": 0,
+      "ap": 2,
+      "quiet": 2,
+      "pos": 0,
+      "focus": 2,
+      "scores": [
+        57,
+        34
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 8
+      },
+      "actor": 0,
+      "round": 3,
+      "active": 1,
+      "ap": 2,
+      "quiet": 2,
+      "pos": 2,
+      "focus": 0,
+      "scores": [
+        61,
+        34
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "scout"
+      },
+      "actor": 1,
+      "round": 3,
+      "active": 0,
+      "ap": 1,
+      "quiet": 1,
+      "pos": 0,
+      "focus": 2,
+      "scores": [
+        61,
+        34
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "move",
+        "to": 1
+      },
+      "actor": 0,
+      "round": 3,
+      "active": 1,
+      "ap": 1,
+      "quiet": 2,
+      "pos": 2,
+      "focus": 0,
+      "scores": [
+        61,
+        34
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 4
+      },
+      "actor": 1,
+      "round": 3,
+      "active": 1,
+      "ap": 0,
+      "quiet": 1,
+      "pos": 2,
+      "focus": 0,
+      "scores": [
+        61,
+        38
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "next"
+      },
+      "actor": 1,
+      "round": 4,
+      "active": 1,
+      "ap": 3,
+      "quiet": 2,
+      "pos": 2,
+      "focus": 0,
+      "scores": [
+        61,
+        38
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 6
+      },
+      "actor": 1,
+      "round": 4,
+      "active": 0,
+      "ap": 3,
+      "quiet": 2,
+      "pos": 1,
+      "focus": 2,
+      "scores": [
+        61,
+        54
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 1
+      },
+      "actor": 0,
+      "round": 4,
+      "active": 1,
+      "ap": 2,
+      "quiet": 1,
+      "pos": 2,
+      "focus": 0,
+      "scores": [
+        71,
+        54
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "move",
+        "to": 1
+      },
+      "actor": 1,
+      "round": 4,
+      "active": 0,
+      "ap": 2,
+      "quiet": 1,
+      "pos": 1,
+      "focus": 2,
+      "scores": [
+        71,
+        54
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "focus"
+      },
+      "actor": 0,
+      "round": 4,
+      "active": 0,
+      "ap": 2,
+      "quiet": 3,
+      "pos": 1,
+      "focus": 1,
+      "scores": [
+        71,
+        54
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 0
+      },
+      "actor": 0,
+      "round": 4,
+      "active": 1,
+      "ap": 1,
+      "quiet": 0,
+      "pos": 1,
+      "focus": 0,
+      "scores": [
+        77,
+        54
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "move",
+        "to": 0
+      },
+      "actor": 1,
+      "round": 4,
+      "active": 0,
+      "ap": 1,
+      "quiet": 2,
+      "pos": 1,
+      "focus": 1,
+      "scores": [
+        77,
+        54
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "move",
+        "to": 2
+      },
+      "actor": 0,
+      "round": 4,
+      "active": 0,
+      "ap": 0,
+      "quiet": 2,
+      "pos": 2,
+      "focus": 1,
+      "scores": [
+        77,
+        54
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "next"
+      },
+      "actor": 0,
+      "round": 5,
+      "active": 0,
+      "ap": 3,
+      "quiet": 3,
+      "pos": 2,
+      "focus": 1,
+      "scores": [
+        77,
+        54
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 6
+      },
+      "actor": 0,
+      "round": 5,
+      "active": 1,
+      "ap": 3,
+      "quiet": 1,
+      "pos": 0,
+      "focus": 0,
+      "scores": [
+        99,
+        54
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "wait"
+      },
+      "actor": 1,
+      "round": 5,
+      "active": 0,
+      "ap": 2,
+      "quiet": 2,
+      "pos": 2,
+      "focus": 1,
+      "scores": [
+        99,
+        54
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 4
+      },
+      "actor": 0,
+      "round": 5,
+      "active": 1,
+      "ap": 2,
+      "quiet": 3,
+      "pos": 0,
+      "focus": 0,
+      "scores": [
+        103,
+        54
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 11
+      },
+      "actor": 1,
+      "round": 5,
+      "active": 0,
+      "ap": 1,
+      "quiet": 1,
+      "pos": 2,
+      "focus": 1,
+      "scores": [
+        103,
+        77
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "wait"
+      },
+      "actor": 0,
+      "round": 5,
+      "active": 1,
+      "ap": 1,
+      "quiet": 2,
+      "pos": 0,
+      "focus": 0,
+      "scores": [
+        103,
+        77
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "move",
+        "to": 3
+      },
+      "actor": 1,
+      "round": 5,
+      "active": 1,
+      "ap": 0,
+      "quiet": 1,
+      "pos": 3,
+      "focus": 0,
+      "scores": [
+        103,
+        77
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "next"
+      },
+      "actor": 1,
+      "round": 6,
+      "active": 1,
+      "ap": 3,
+      "quiet": 2,
+      "pos": 3,
+      "focus": 0,
+      "scores": [
+        103,
+        77
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 2
+      },
+      "actor": 1,
+      "round": 6,
+      "active": 0,
+      "ap": 3,
+      "quiet": 4,
+      "pos": 2,
+      "focus": 1,
+      "scores": [
+        103,
+        102
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 7
+      },
+      "actor": 0,
+      "round": 6,
+      "active": 1,
+      "ap": 2,
+      "quiet": 1,
+      "pos": 3,
+      "focus": 0,
+      "scores": [
+        112,
+        102
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "wait"
+      },
+      "actor": 1,
+      "round": 6,
+      "active": 0,
+      "ap": 2,
+      "quiet": 3,
+      "pos": 2,
+      "focus": 1,
+      "scores": [
+        112,
+        102
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "move",
+        "to": 5
+      },
+      "actor": 0,
+      "round": 6,
+      "active": 1,
+      "ap": 1,
+      "quiet": 3,
+      "pos": 3,
+      "focus": 0,
+      "scores": [
+        112,
+        102
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 1
+      },
+      "actor": 1,
+      "round": 6,
+      "active": 0,
+      "ap": 1,
+      "quiet": 3,
+      "pos": 5,
+      "focus": 1,
+      "scores": [
+        112,
+        108
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "observe",
+        "id": 8
+      },
+      "actor": 0,
+      "round": 6,
+      "active": 0,
+      "ap": 0,
+      "quiet": 2,
+      "pos": 5,
+      "focus": 1,
+      "scores": [
+        113,
+        108
+      ],
+      "finished": false
+    },
+    {
+      "action": {
+        "type": "next"
+      },
+      "actor": 0,
+      "round": 6,
+      "active": 0,
+      "ap": 0,
+      "quiet": 2,
+      "pos": 5,
+      "focus": 1,
+      "scores": [
+        113,
+        108
+      ],
+      "finished": true
+    }
+  ]
+}
